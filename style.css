@@ -1,3 +1,10 @@
 body {
-    background-color: aqua;
+    margin: 0;
+    padding: 0;
+    background-color: #34495e;
+}
+.slidershow{
+    width: 700px;
+    height: 400px;
+    overflow: hidden;
 }
