@@ -20,10 +20,16 @@ body {
     left: 50%;
     transform: translateX(-50%);
     display: flex;
-    background-color: aqua;
 }
 .bar {
     width: 50px;
     height: 10px;
-    border: 2px solid #fff
+    border: 2px solid #fff;
+    margin: 6px;
+    cursor: pointer;
+}
+
+input[name="r"]{
+    position: relative;
+    visibility: hidden;
 }
