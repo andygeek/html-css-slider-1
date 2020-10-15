@@ -28,8 +28,22 @@ body {
     margin: 6px;
     cursor: pointer;
 }
-
+.bar:hover{
+    background: #fff;
+}
 input[name="r"]{
     position: relative;
     visibility: hidden;
+}
+.slides {
+    width: 500%;
+    height: 100%;
+    display: flex;
+}
+.slide {
+    width: 20%;
+}
+.slide img {
+    width: 100%;
+    height: 100%;
 }
