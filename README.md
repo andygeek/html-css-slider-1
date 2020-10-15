@@ -1,6 +1,6 @@
 # Image slider with Html and Css
 
-Basic slider usin only html and css.
+Basic slider using only html and css.
 
 ![made-with-python](https://img.shields.io/badge/Made%20with-HTML-orange) ![made-with-python](https://img.shields.io/badge/Made%20with-CSS-blue)
 
